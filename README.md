@@ -12,3 +12,4 @@ https://haveibeenpwned.com/Passwords
 
 This is just basic api call which runs the passwordchecker using the wensite ihavebeendpwned.com
 
+The basic command to run this password checker is python3 checkmypass.py yourpasswordhere
